@@ -60,4 +60,4 @@ All executed test cases are listed in [`QA_Test_Cases.md`](./QA_Test_Cases.md).
 
 **Ramona-Elena Duică**
 📧 duica.ramona99@gmail.com
-🌐 [GitHub Profile or LinkedIn](https://www.linkedin.com/in/ramonaduica)
+🌐 https://www.linkedin.com/in/ramonaduica
